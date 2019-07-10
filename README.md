@@ -6,13 +6,15 @@ A basic React Native setup with Expo to get an app started quickly.
 
 - Download [Node 10+](https://nodejs.org/en/download/)
 
-- Expo CLI
+- Install [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-stable) 
+
+- Install Expo CLI
 
 ## Steps
 
 Get the Expo CLI:
 ```bash
-$ npm install -g expo-cli
+$ yarn global add expo-cli
 ```
 
 Clone repo:
@@ -24,8 +26,8 @@ Navigate to directory, install dependancies, and start the app:
 
 ```bash
 $ cd sculpt-react-native-starter-expo
-$ npm install
-$ npm start
+$ yarn install
+$ expo start
 ```
 
 Follow [Expo Documentation](https://docs.expo.io/versions/latest/workflow/up-and-running/#open-the-app-on-your-phone-or) to get app running on devices.
