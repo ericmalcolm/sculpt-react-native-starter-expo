@@ -31,3 +31,5 @@ $ expo start
 ```
 
 Follow [Expo Documentation](https://docs.expo.io/versions/latest/workflow/up-and-running/#open-the-app-on-your-phone-or) to get app running on devices.
+
+[React Native Paper](https://reactnativepaper.com/) has been added. See list of examples in this [expo snack](https://snack.expo.io/@satya164/github.com-callstack-react-native-paper:example) to get some basic components.
