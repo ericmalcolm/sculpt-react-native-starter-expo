@@ -26,7 +26,7 @@ Navigate to directory, install dependancies, and start the app:
 
 ```bash
 $ cd sculpt-react-native-starter-expo
-$ yarn install
+$ yarn
 $ expo start
 ```
 
